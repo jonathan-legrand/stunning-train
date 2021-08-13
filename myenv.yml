@@ -1,0 +1,9 @@
+name: gptj-test
+channels:
+  - defaults
+dependencies:
+  - flask
+  - transformers
+  - flask-bootstrap
+  - flask_wtf
+prefix: /home/jlegrand/.conda/envs/gptj-test
